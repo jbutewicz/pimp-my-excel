@@ -18,3 +18,15 @@ Ugg. This income statement for Google is so boring. You can't use this data to s
 Pimperish! Now you are ready to make some bucks.
 
 ![Google Income Statement Wow!](http://jbutewicz.com/wp-content/uploads/2015/05/GoogleIncomeStatementWow.png)
+
+# How to Use
+
+Make sure your Excel is able to run macros. You may have to change your Excel settings to do this.
+
+Open the Visual Editor in Excel. Do this with Alt+F11.
+
+Right click on the project area and select Import File. Select the PimpMyExcel.bas file.
+
+Make sure you have the sheet open in Excel that you want to pimp out.
+
+Run the macro called PimpMyExcel.
